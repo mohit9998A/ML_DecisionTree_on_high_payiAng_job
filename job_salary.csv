@@ -1,0 +1,75 @@
+Company,Job,Degree,More_Than_100000$_Salary(USD)
+google,Software Engineer,Bachelor's,0
+google,Product Manager,Bachelor's,1
+google,Data Scientist,Master's,1
+abcpharma,Pharmaceutical Sales Manager,Bachelor's,1
+abcpharma,Clinical Research Scientist,Master's,1
+facebook,Software Engineer,Bachelor's,1
+facebook,Data Engineer,Bachelor's,0
+facebook,Machine Learning Engineer,Master's,1
+google,sales executive,Bachelor's ,0
+google,sales executive,Master's,0
+google,business manager,Bachelor's ,1
+google,business manager,Master's,1
+google,computer programmer,Bachelor's ,0
+google,computer programmer,Master's,1
+abc pharma,sales executive,Master's,0
+abc pharma,computer programmer,Bachelor's ,0
+abc pharma,business manager,Bachelor's ,0
+abc pharma,business manager,Master's,1
+facebook,sales executive,Bachelor's ,1
+facebook,sales executive,Master's,1
+facebook,business manager,Bachelor's ,1
+facebook,business manager,Master's,1
+facebook,computer programmer,Bachelor's ,1
+facebook,computer programmer,Master's,1
+Google,AI Research Scientist,PhD ,1
+Google,Cloud Solutions Architect,Bachelor's,1
+Google,Cybersecurity Engineer,Bachelor's ,0
+Google,DevOps Engineer,Bachelor's ,0
+Google,Site Reliability Engineer,Bachelor's ,0
+Google,Software Engineering Manager,Master's,1
+Google,Technical Program Manager,Bachelor's,1
+Google,UX Researcher,Bachelor's ,0
+Google,Blockchain Developer,Bachelor's,1
+Google,Computer Vision Engineer,PhD ,1
+ABC Pharma,Regulatory Affairs Manager,Master's ,0
+ABC Pharma,Biostatistician,Master's ,0
+ABC Pharma,Toxicologist,PhD ,0
+ABC Pharma,Medical Science Liaison,PhD ,0
+ABC Pharma,Clinical Data Manager,Bachelor's ,0
+ABC Pharma,Pharmaceutical Consultant,Master's ,0
+ABC Pharma,Genetic Counselor,Master's ,0
+ABC Pharma,Epidemiologist,PhD ,0
+ABC Pharma,Health Informatics Specialist,Master's ,0
+ABC Pharma,Research Scientist,PhD ,1
+Facebook,Full Stack Engineer,Bachelor's ,0
+Facebook,Product Designer,Bachelor's ,0
+Facebook,Security Engineer,Bachelor's ,0
+Facebook,Network Engineer,Bachelor's ,0
+Facebook,Game Developer,Bachelor's ,0
+Facebook,Hardware Engineer,Bachelor's ,0
+Facebook,Technical Account Manager,Bachelor's ,0
+Facebook,VR/AR Engineer,Master's,1
+Facebook,Content Strategist,Bachelor's ,0
+Facebook,Data Privacy Consultant,Master's ,0
+Amazon,Solutions Architect,Master's ,1
+Amazon,Principal Data Scientist,PhD ,1
+Amazon,Robotics Engineer,Bachelor's ,1
+Amazon,Embedded Systems Engineer,Bachelor's ,0
+Amazon,Supply Chain Manager,Bachelor's ,0
+Amazon,E-commerce Manager,Bachelor's ,1
+Amazon,Advertising Manager,Bachelor's ,0
+Amazon,Big Data Engineer,Bachelor's ,1
+Amazon,Business Operations Manager,Bachelor's ,0
+Amazon,AI Ethics Specialist,Master's ,0
+Microsoft,Cloud Engineer,Bachelor's ,0
+Microsoft,AI Engineer,PhD ,1
+Microsoft,Data Governance Specialist,Master's ,0
+Microsoft,Digital Transformation Manager,Master's ,1
+Microsoft,Enterprise Architect,PhD,1
+Microsoft,Machine Learning Scientist,PhD,1
+Microsoft,Security Operations Manager,Bachelor's ,0
+Microsoft,Business Intelligence Engineer,Master's ,1
+Microsoft,Customer Experience Manager,Bachelor's ,0
+Microsoft,Quantum Computing Researcher,PhD ,1
